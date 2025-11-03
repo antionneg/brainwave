@@ -1,0 +1,7 @@
+{
+  "name": "Brain Wave",
+  "description": "An AI-powered personal assistant to generate comprehensive daily planners for busy parents, helping to organize schedules, manage tasks, and reduce stress.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
